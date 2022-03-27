@@ -1,0 +1,3 @@
+[submodule "excalidraw"]
+	path = excalidraw
+	url = git@bitbucket.org:mdcanada/excalidraw.git
